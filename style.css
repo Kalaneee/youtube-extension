@@ -1,0 +1,21 @@
+.img-container {
+  position: relative;
+  height: 22px;
+}
+
+.btn-up {
+  position: absolute;
+  left: 30px;
+  width: 18px;
+}
+
+.btn-down {
+  position: absolute;
+  left: 0;
+  width: 18px;
+}
+
+.animated {
+  width: 22px;
+  transition: width 0.2s;
+}
